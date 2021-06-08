@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ****
 ###  ABOUT ME 👩🏽
  🌍 &nbsp; 24 y/o American full-stack developer currently exploring Granada Spain <br>
- 💼 &nbsp; Currently working as a Part-Time TSE at [Microverse](https://www.microverse.org) <br>
- 🔭 &nbsp; Looking for new opportunities to use my web development skills <br>
+ 💼 &nbsp; Currently working as a Software Developer at [Fuzey](https://www.fuzey.io) <br>
+ <!-- 🔭 &nbsp; Looking for new opportunities to use my web development skills <br> -->
  😄 &nbsp;Pronouns: She/her
  ****
  ### SKILLS 🔧 ⚙️
